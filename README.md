@@ -13,12 +13,12 @@ demo/
 
 ## 示例项目
 
-### [Three Layer Examples](./three-layer-examples/index.html)
+### [Three Layer Examples](https://sxguojf.github.io/demo/three-layer-examples/)
 
 - 技术栈：Vue3 + Element Plus
 - 功能：三维地形图交互界面，支持图层切换、地形控制、多种数据源展示。
 
-### [Three Terrain](./three-terrain/index.html)
+### [Three Terrain](https://sxguojf.github.io/demo/three-terrain/)
 
 - 技术栈：Vue3 + three.js
 - 功能：框选地图范围，下载卫星影像与 LERC 高程瓦片，生成可交互三维地形，并支持模型与纹理导出。
